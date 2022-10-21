@@ -1,0 +1,6 @@
+build/*.js
+src/assets
+public
+dist
+vue.config.js
+jest.config.js
