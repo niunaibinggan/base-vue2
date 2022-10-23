@@ -52,7 +52,7 @@ export default defineConfig({
     }
   },
   base: env.VITE_APP_WEB_PATH,
-  publicDir: 'static',
+  publicDir: 'public',
   build: {
     rollupOptions: {
       output: {
